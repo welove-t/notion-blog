@@ -1,5 +1,4 @@
-import Link from "next/link";
-import React, { FC, ReactNode } from "react";
+import React, { FC } from "react";
 import { LayoutProps } from "../types/types";
 import Footer from "./Footer";
 import Navbar from "./Navbar";
